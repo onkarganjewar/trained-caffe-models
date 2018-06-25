@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:76f8f388e6bd0567675b90ff08f9e08e1f2b5995d1f3ce23aaafc036f7a6e014
-size 22
+This repository contains trained neural networks obtained using [Caffe](https://github.com/onkarganjewar/caffe). This repo solely exists because GitHub LFS is not allowed on the public forks, yet. [Source](https://github.com/git-lfs/git-lfs/issues/1906#issuecomment-390085699)
+>  Git LFS on github.com does not currently support pushing LFS objects to public forks. GitHub Enterprise does support this behavior.
+
+Please refer to the README of https://github.com/onkarganjewar/caffe for more information. 
